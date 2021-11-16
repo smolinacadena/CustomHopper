@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "facing=down":  { "model": "customhopper:block/custom_hopper"                },
+        "facing=north": { "model": "customhopper:block/custom_hopper_side"           },
+        "facing=south": { "model": "customhopper:block/custom_hopper_side", "y": 180 },
+        "facing=west":  { "model": "customhopper:block/custom_hopper_side", "y": 270 },
+        "facing=east":  { "model": "customhopper:block/custom_hopper_side", "y": 90  }
+    }
+}

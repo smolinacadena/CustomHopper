@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SSS",
+        "SCS",
+        "SSS"
+    ],
+    "key": {
+        "C": {
+            "item": "minecraft:hopper"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "customhopper:custom_hopper"
+    }
+}

@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+[[mods]]
+modId="customhopper"
+version="${file.jarVersion}"
+displayName="Custom Hopper"
+logoFile="logo.png"
+authors="ItsSebastrn"
+description='''
+A custom hopper mod for Primatilandia
+'''
