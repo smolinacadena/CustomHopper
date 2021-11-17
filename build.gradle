@@ -80,15 +80,6 @@ sourceSets {
 
 dependencies {
     minecraft 'net.minecraftforge:forge:1.16.5-36.2.9'
-
-    implementation fg.deobf('curse.maven:botany-pots-353928:3283196')
-    implementation fg.deobf('curse.maven:botany-pots-411357:3286318')
-    implementation fg.deobf('curse.maven:bookshelf-228525:3474499')
-    implementation fg.deobf('curse.maven:redstone-gauges-and-switches-296686:3518678')
-    implementation fg.deobf('curse.maven:pams-harvestcraft-2-372534:3190867')
-    implementation fg.deobf('curse.maven:pams-harvestcraft-2-crops-361385:3276350')
-    implementation fg.deobf('curse.maven:pams-harvestcraft-2-food-extended-402231:3418627')
-    implementation fg.deobf('curse.maven:pams-harvestcraft-2-trees-365460:3281234')
 }
 
 // Example for how to get properties into the manifest for reading by the runtime..
